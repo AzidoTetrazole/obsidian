@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "2e9225e34664efd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfa30c4cec1d836a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "331ac7909c94bffd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1243752a4df710bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a4c81639dc8783e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b77831b90dd9f87b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0829eb50dbb8a2b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "436d75c49c949463",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ba1ec06a672fb227",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cea78168fbf9ccd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2aa5a4c073617928",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "category-folder/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
+            }
+          },
+          {
+            "id": "5acb7020384970a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "category-folder/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from index"
+            }
+          },
+          {
+            "id": "f850ba7e9e699bea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2d9129bb8dcf7983",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "category-folder/index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of index"
+            }
+          },
+          {
+            "id": "8742b0b1a73a0149",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b77831b90dd9f87b",
+  "lastOpenFiles": [
+    "Private/z_assets/Lazerus.jpg",
+    "Private/z_assets",
+    "Private",
+    "DMNotes/People/Ammon Jerro.md",
+    "DMNotes/People",
+    "DMNotes",
+    "index.md",
+    "DMNotes/Previous Session Notes/Session 0 Topics.md",
+    "DMNotes/Previous Session Notes/Campaign Wrapup.md",
+    "DMNotes/Previous Session Notes/Campaign Recap.md",
+    "DMNotes/Calendars/5 - Mirtul.md",
+    "DMNotes/Calendars/7 - Flamerule.md",
+    "DMNotes/Calendars/8 - Eleasias.md",
+    "DMNotes/Calendars/6 - Kythorn.md",
+    "DMNotes/Calendars/4 - Tarsakh.md",
+    "DMNotes/Calendars/3 - Ches.md",
+    "DMNotes/Calendars/2 - Alturiak.md",
+    "DMNotes/Calendars/1 - Hammer.md",
+    "Maps/Faerun World Map.md",
+    "category-folder/People/Parias.md",
+    "category-folder/People/Simihr Biwyll.md",
+    "category-folder/People/Lazuli.md",
+    "category-folder/People/Koraboros.md",
+    "category-folder/People/Andrea Mooncaller.md",
+    "category-folder/People/Ammon Jerro.md",
+    "category-folder/People",
+    "category-folder/Library/The Diary of Shenarah Ilihorn.md",
+    "category-folder/Library/Proclamation of Free Lordship for Thelid of Port Llast.md",
+    "category-folder/Library/Necromancers Journal.md",
+    "category-folder/Library",
+    "category-folder/Places/Eriiksvager/Eriiksvager.md",
+    "category-folder/Places/Caulderon/Sarissa.md",
+    "category-folder/Places/Eriiksvager",
+    "category-folder/Places/Caulderon",
+    "category-folder/Places",
+    "DMNotes/Places/Waterdeep",
+    "Exported image 20241008220120-0.png",
+    "z_Assets/PC Portraits/Thelid.jpg",
+    "z_Assets/PC Portraits/Triptan.jpg",
+    "z_Assets/PC Portraits/Rizlyn.jpg",
+    "z_Assets/PC Portraits/Nyven.jpg",
+    "z_Assets/PC Portraits/Njal.jpg",
+    "z_Assets/PC Portraits/Lapis.jpg",
+    "z_Assets/PC Portraits/Colt Mooncaller.jpg",
+    "z_Assets/PC Portraits/Barakus Enigma.jpg",
+    "z_Assets/NPC Portraits/Thrugash.jpg"
+  ]
+}

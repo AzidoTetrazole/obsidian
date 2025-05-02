@@ -1,0 +1,1049 @@
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "Calendar of Harptos",
+      "description": null,
+      "id": "ID_39da6ae89998",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": false,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "I",
+            "id": "ID_189968fa6899",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "II",
+            "id": "ID_b9c86a4b9bd8",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "III",
+            "id": "ID_09e8b95a38e8",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "IV",
+            "id": "ID_e8880b0b1979",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "V",
+            "id": "ID_399a4adb9bfb",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "VI",
+            "id": "ID_fa8bcb198a38",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "VII",
+            "id": "ID_fada9b690a48",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "VIII",
+            "id": "ID_89e9cbfb3a4a",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "IX",
+            "id": "ID_ba48b82b087b",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "X",
+            "id": "ID_c80a491a5b58",
+            "number": null
+          }
+        ],
+        "months": [
+          {
+            "name": "Hammer (Deepwinter)",
+            "type": "month",
+            "length": 30,
+            "id": "ID_6b3b287bcbb9",
+            "interval": 1,
+            "offset": 1
+          },
+          {
+            "name": "Midwinter",
+            "type": "intercalary",
+            "length": 1,
+            "id": "ID_1b79c9a92bca",
+            "interval": 1,
+            "offset": 1
+          },
+          {
+            "name": "Alturiak (The Claw of Winter)",
+            "type": "month",
+            "length": 30,
+            "id": "ID_b888f9f8581b",
+            "interval": 1,
+            "offset": 1
+          },
+          {
+            "name": "Ches (The Claw of the Sunsets)",
+            "type": "month",
+            "length": 30,
+            "id": "ID_4ab8abca5b0a",
+            "interval": 1,
+            "offset": 1
+          },
+          {
+            "name": "Tarsakh (The Claw of Storms)",
+            "type": "month",
+            "length": 30,
+            "id": "ID_f8fbc95a29da",
+            "interval": 1,
+            "offset": 1
+          },
+          {
+            "name": "Greengrass",
+            "type": "intercalary",
+            "length": 1,
+            "id": "ID_8a5aeafa5bba",
+            "interval": 1,
+            "offset": 1
+          },
+          {
+            "name": "Mirtul (The Melting)",
+            "type": "month",
+            "length": 30,
+            "id": "ID_3a0ae878782b",
+            "interval": 1,
+            "offset": 1
+          },
+          {
+            "name": "Kythorn (The Time of Flowers)",
+            "type": "month",
+            "length": 30,
+            "id": "ID_897abb4a395b",
+            "interval": 1,
+            "offset": 1
+          },
+          {
+            "name": "Flamerule (Summertide)",
+            "type": "month",
+            "length": 30,
+            "id": "ID_bb0b39a83898",
+            "interval": 1,
+            "offset": 1
+          },
+          {
+            "name": "Midsummer",
+            "type": "intercalary",
+            "length": 1,
+            "id": "ID_6a7b08ab2a0b",
+            "interval": 1,
+            "offset": 1
+          },
+          {
+            "name": "Eleasis (Highsun)",
+            "type": "month",
+            "length": 30,
+            "id": "ID_d9188b9848aa",
+            "interval": 1,
+            "offset": 1
+          },
+          {
+            "name": "Eleint (The Fading)",
+            "type": "month",
+            "length": 30,
+            "id": "ID_7a99191a69cb",
+            "interval": 1,
+            "offset": 1
+          },
+          {
+            "name": "Highharvestide",
+            "type": "intercalary",
+            "length": 1,
+            "id": "ID_0a6959bb7989",
+            "interval": 1,
+            "offset": 1
+          },
+          {
+            "name": "Marpenoth (Leaffall)",
+            "type": "month",
+            "length": 30,
+            "id": "ID_89da38bb19eb",
+            "interval": 1,
+            "offset": 1
+          },
+          {
+            "name": "Uktar (The Rotting)",
+            "type": "month",
+            "length": 30,
+            "id": "ID_fbbaf828094b",
+            "interval": 1,
+            "offset": 1
+          },
+          {
+            "name": "The Feast of the Moon",
+            "type": "intercalary",
+            "length": 1,
+            "id": "ID_d91b18c83828",
+            "interval": 1,
+            "offset": 1
+          },
+          {
+            "name": "Nightal (The Drawing Down)",
+            "type": "month",
+            "length": 30,
+            "id": "ID_28db199b3b0b",
+            "interval": 1,
+            "offset": 1
+          }
+        ],
+        "moons": [
+          {
+            "name": "Selúne",
+            "cycle": 30.4375,
+            "offset": 13.9,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000000",
+            "id": "ID_58aa7a09e97b"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [
+          {
+            "name": "Shieldsmeet",
+            "type": "leapday",
+            "interval": [
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 4
+              }
+            ],
+            "timespan": 9,
+            "intercalary": false,
+            "numbered": true,
+            "after": 0,
+            "offset": 0,
+            "id": "ID_d96bf94bc8c8"
+          }
+        ],
+        "eras": []
+      },
+      "current": {
+        "day": 17,
+        "month": 8,
+        "year": 1493
+      },
+      "events": [
+        {
+          "name": "Winter Solstice",
+          "description": "",
+          "id": "2705637",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": "natural-events",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Vernal Equinox",
+          "description": "",
+          "id": "2705638",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": "natural-events",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Summer Solstice",
+          "description": "",
+          "id": "2705639",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": "natural-events",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Autumnal Equinox",
+          "description": "",
+          "id": "2705640",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": "natural-events",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Shieldmeet",
+          "description": "<p>Shieldmeet was the equivalent of a leap year day in the Calendar of Harptos, occurring once every four years, adding a day after the festival of Midsummer and before Eleasis 1. Traditionally the day was used for fairs, bazaars, musical and theatrical performances, and tournaments of skill and magical ability. Nobles usually held court to hear the petitions of their people and to make or renew trade pacts, alliances, and agreements. Shieldmeet was known as <em>Cinnaelos'Cor </em>(also seen as <em>Cinnaeloscor</em>), \"the Day of Corellon's Peace\" in elvish and marked the end of an aeloulaev and the beginning of a new one in the elven Aryselmalyn calendar.</p>",
+          "id": "2705641",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 2,
+            "year": null,
+            "month": 9
+          },
+          "category": "festivals",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Feast of the Moon",
+          "description": "<p>The Feast of the Moon, or Moonfest, was an annual festival in the Calendar of Harptos, occurring between the final night of Uktar and the first day of Nightal. It was the last great festival of the calendar year.</p>\n\n<p>The day traditionally marked the onset of winter. It was also a time to celebrate and honor the ancestors and the respected dead. On this day, folk blessed their ancestors' graves and performed the Ritual of Remembrance. People also gathered to tell stories of the deeds of their ancestors and of the gods until deep into the night, until they merged and became legend. This was a time to hear of past heroes, great treasures, and lost cities.</p>\n\n<p>In FaerÃƒÂ»n, battles were typically fought between harvest-time and the coming of winter. This meant that most of the fighting usually occurred in the month of Uktar. The timing of the Feast of the MoonÃ¢â‚¬â€after recently slain soldiers had joined the ranks of the deadÃ¢â‚¬â€was thus practical, if sadly ironic.</p>\n\n<p>The Heralds of FaerÃƒÂ»n had a number of special duties on the Feast of the Moon. Prime among these was to perform the Bloodsong ceremony, at which a Herald publicly recited the genealogies of each noble family in the area. In this way, the Heralds reaffirmed a noble family's traditional authority and status, as well as the respect accorded to them.</p>\n\n<p>Priests of a number of deities of various pantheons held rites, ceremonies, and festivals on the Feast of the Moon. Many, though not all, focused on remembering the dead in one way or another.</p>",
+          "id": "2705642",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 1,
+            "year": null,
+            "month": 15
+          },
+          "category": "festivals",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Highharvesttide",
+          "description": "<p>Highharvestide was an annual festival in the Calendar of Harptos, taking place between 30 Eleint and 1 Marpenoth. It was traditionally a feast to celebrate the harvest and the abundance of food, but also the time when those wishing to travel left on their journeys before winter set in.</p>\n\n<p>Preparations for the feast started as early as a tenday before, while preparing, cooking, and preserving the harvest for the cold winter months. Traditions varied from community to community, but examples of festive activity included food-related contests; races and challenges of skill and strength; receiving homemade sweets from the local clergy; and priests blessing larders, wine cellars, grain bins, and food preserves.</p>\n\n<p>This day was often an important anniversary to various governments. Often, taxes and tithes came due, rulers held \"open courts\" to hear the concerns of their citizens, oaths were publicly renewed, troops received marching orders to new duty stations, and guilds met to confer on prices and rate changes for goods and services.</p>\n\n<p>According to tradition, dwarves only drank water and elves drank only dew on this day. However, these traditions began to fade in the 14th and 15th century DR.</p>\n\n<p>It was said that children born on this day were favored by Tymora to have lifelong good luck but be smitten with wanderlust. Another legend was that human females born on this day had control over their reproductive system (i.e., got pregnant only when they wanted to) by force of will alone, and that they could instantly sense when they had been poisoned, either by ingestion or being bitten by a venomous creature for example.</p>",
+          "id": "2705643",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 1,
+            "year": null,
+            "month": 12
+          },
+          "category": "festivals",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Greengrass",
+          "description": "<p>Greengrass was a festival to welcome in the first day of spring in the Calendar of Harptos. It occured annually on a special day between Tarsakh 30 and Mirtul 1. Traditionally, the wealthier people brought out flowers to give to the less wealthy, who either wore them or spread them on the ground to encourage the deities to usher in the summer.</p>",
+          "id": "2705644",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 1,
+            "year": null,
+            "month": 5
+          },
+          "category": "festivals",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Midwinter",
+          "description": "<p>Midwinter (also known as Deadwinter Day) was a festival to mark the midpoint of winter in the Calendar of Harptos. It occured on a special day between Hammer 30 and Alturiak 1. Amongst nobles and monarchs it was known as Midwinter and was traditionally used to make or renew alliances, although the common people called it Deadwinter Day, a reference to the cold and hard times that remained before the spring.</p>\n\n<p>On Midwinter Day the Red Fellowship of the Deity known as the Red Knight observes the Retreat. This solemn ceremony consists of an assembly wherein the clergy discuss the previous year's campaigns. Strategies are discussed, battles analyzed, and the accumulated lore integrated into the church's teachings.</p>\n\n<p>The holiest day of the year for the Church of Shevarash is Midwinter Night, during which the Dark Court Slaughter is remembered. Inductions into the ranks of the clergy occur at this time. Each new cleric screams vows of vengeance into the night air and swears neither to laugh nor smile until the Spider Queen and her followers are no more.</p>",
+          "id": "2705645",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 1,
+            "year": null,
+            "month": 1
+          },
+          "category": "festivals",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Midsummer",
+          "description": "<p>Midsummer was a festival that celebrated love and music through feast. It occurred between Flamerule 30 and Eleasis 1 on the Calendar of Harptos. It was a time when love advanced, and it was said the deities themselves took a hand to ensure good weather. If bad weather was experienced on this night it was considered an extremely bad omen. Shieldmeet occurred the day after Midsummer on leap years.<strong><br></strong></p>",
+          "id": "2705646",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 1,
+            "year": null,
+            "month": 9
+          },
+          "category": "festivals",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "10.10 - Quicksnow and Polar Bears",
+          "description": null,
+          "date": {
+            "day": 17,
+            "month": 8,
+            "year": 1493
+          },
+          "id": "ID_1a49992a685a",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "10.10 - Quicksnow and Polar Bears",
+          "description": null,
+          "date": {
+            "day": 17,
+            "month": 8,
+            "year": 1493
+          },
+          "id": "ID_1a49992a685a",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "10.10 - Quicksnow and Polar Bears",
+          "description": "The party continues across the frozen Tundra, enduring the cold bitter night. They encounter a field of Fairy Snow, Lapis getting caught and nearly crushed. Njal dove in, and together with the rest of the party, rescued Lapis just in time.\nThe next day, they encounter a half-orc Druid (Abi) who is working to free a barbed trap from the paw of a polar bear (Bronir). For their help, Abi gives them a potion of cold resistence",
+          "date": {
+            "day": 17,
+            "month": 8,
+            "year": 1493
+          },
+          "id": "ID_1a49992a685a",
+          "note": null,
+          "category": "ID_ea181839b93b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "10.3 - Across the Iceflow ",
+          "description": "The party leaves Eriicsvager, and encounters a frost giant and two trolls",
+          "date": {
+            "day": 15,
+            "month": 8,
+            "year": 1493
+          },
+          "id": "ID_cb9968eb4a38",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Level 14",
+          "description": "The party leaves Eriicsvager, and encounters a frost giant and two trolls",
+          "date": {
+            "day": 15,
+            "month": 8,
+            "year": 1493
+          },
+          "id": "ID_cb9968eb4a38",
+          "note": "DM Notes - Nerd Night/Previous Session Notes/Level 14.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "10.10 - Quicksnow and Polar Bears",
+          "description": "10.3 - Across the Iceflow ",
+          "date": {
+            "day": 15,
+            "month": 8,
+            "year": 1493
+          },
+          "id": "ID_cb9968eb4a38",
+          "note": "DM Notes - Nerd Night/Previous Session Notes/Level 14.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "10.10 - Quicksnow and Polar Bears",
+          "description": "10.3 - Across the Iceflow ",
+          "date": {
+            "day": 15,
+            "month": 8,
+            "year": 1493
+          },
+          "id": "ID_cb9968eb4a38",
+          "note": "DM Notes - Nerd Night/Previous Session Notes/Level 14.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "10.3 - Across the Iceflow",
+          "description": "10.3 - Across the Iceflow ",
+          "date": {
+            "day": 15,
+            "month": 8,
+            "year": 1493
+          },
+          "id": "ID_cb9968eb4a38",
+          "note": "DM Notes - Nerd Night/Previous Session Notes/Level 14.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "10.3 - Across the Iceflow",
+          "description": "10.3 - Across the Iceflow \nThe party leaves Eriicsvager, and encounters a frost giant and two trolls",
+          "date": {
+            "day": 15,
+            "month": 8,
+            "year": 1493
+          },
+          "id": "ID_cb9968eb4a38",
+          "note": "DM Notes - Nerd Night/Previous Session Notes/Level 14.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "10.3 - Across the Iceflow",
+          "description": "10.3 - Across the Iceflow \nThe party leaves Eriicsvager, and encounters a frost giant and two trolls",
+          "date": {
+            "day": 15,
+            "month": 8,
+            "year": 1493
+          },
+          "id": "ID_cb9968eb4a38",
+          "note": "DM Notes - Nerd Night/Previous Session Notes/Level 14.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "10.3 - Across the Iceflow",
+          "description": "10.3 - Across the Iceflow \nThe party leaves Eriicsvager, and encounters a frost giant and two trolls",
+          "date": {
+            "day": 15,
+            "month": 8,
+            "year": 1493
+          },
+          "id": "ID_cb9968eb4a38",
+          "note": "DM Notes - Nerd Night/Previous Session Notes/Level 14.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "10.3 - Across the Iceflow",
+          "description": "10.3 - Across the Iceflow \nThe party leaves Eriicsvager, and encounters a frost giant and two trolls",
+          "date": {
+            "day": 15,
+            "month": 8,
+            "year": 1493
+          },
+          "id": "ID_cb9968eb4a38",
+          "note": "DM Notes - Nerd Night/Previous Session Notes/Level 14.md",
+          "category": "ID_ea181839b93b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "9.19 - Eriicsvager",
+          "description": null,
+          "date": {
+            "day": 14,
+            "month": 8,
+            "year": 1493
+          },
+          "id": "ID_386ab9181b89",
+          "note": "DM Notes - Nerd Night/Previous Session Notes/Level 14.md",
+          "category": "ID_ea181839b93b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "9.19 - Eriicsvager",
+          "description": "Nyven visits Gallio's Tower, and talks with Andrea. Simir (after one mishap) teleports the party to a short hike outside of Eriicsvager. The party discovers a very empty town.",
+          "date": {
+            "day": 14,
+            "month": 8,
+            "year": 1493
+          },
+          "id": "ID_386ab9181b89",
+          "note": "DM Notes - Nerd Night/Previous Session Notes/Level 14.md",
+          "category": "ID_ea181839b93b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "10.10 - Quicksnow and Polar Bears",
+          "description": "The party continues across the frozen Tundra, enduring the cold bitter night. They encounter a field of Fairy Snow, Lapis getting caught and nearly crushed. Njal dove in, and together with the rest of the party, rescued Lapis just in time.\nThe next day, they encounter a half-orc Druid (Abi) who is working to free a barbed trap from the paw of a polar bear (Bronir). For their help, Abi gives them a potion of cold resistence",
+          "date": {
+            "day": 16,
+            "month": 8,
+            "year": 1493
+          },
+          "id": "ID_1a49992a685a",
+          "note": null,
+          "category": "ID_ea181839b93b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Range",
+          "end": {
+            "day": 17,
+            "month": 8,
+            "year": 1493
+          }
+        },
+        {
+          "name": "10.24.24 - Aim for the Bushes",
+          "description": null,
+          "date": {
+            "day": 18,
+            "month": 8,
+            "year": 1493
+          },
+          "id": "ID_fbc9ab3aba89",
+          "note": null,
+          "category": "ID_ea181839b93b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "10.24.24 - Aim for the Bushes",
+          "description": "The party arrives at Wyrmdoom Crag, finding a ramshackle tent camp in front of caverns. Njal and Thelid teleport into the camp and kill one frost giant, but are set upon by trolls, frost giants, and Lalroch the Everlasting One.",
+          "date": {
+            "day": 18,
+            "month": 8,
+            "year": 1493
+          },
+          "id": "ID_fbc9ab3aba89",
+          "note": null,
+          "category": "ID_ea181839b93b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "1.23.25 - Cliffdiving",
+          "description": null,
+          "date": {
+            "day": 25,
+            "month": 8,
+            "year": 1493
+          },
+          "id": "ID_fafbdbeb5aaa",
+          "note": "DM Notes - Nerd Night/Previous Session Notes/Session Notes - LVL 15/1.23.25 - Cliffdiving.md",
+          "category": "ID_ea181839b93b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "1.16.25 - Legendmaker",
+          "description": null,
+          "date": {
+            "day": 25,
+            "month": 8,
+            "year": 1493
+          },
+          "id": "ID_7bc9e83aaa1a",
+          "note": "DM Notes - Nerd Night/Previous Session Notes/Session Notes - LVL 15/1.16.25 - Legendmaker.md",
+          "category": "ID_ea181839b93b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "1.9.25 - Re-Chained",
+          "description": null,
+          "date": {
+            "day": 25,
+            "month": 8,
+            "year": 1493
+          },
+          "id": "ID_4bdb189be929",
+          "note": "DM Notes - Nerd Night/Previous Session Notes/Session Notes - LVL 15/1.9.25 - Re-Chained.md",
+          "category": "ID_ea181839b93b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "1.29.25 - Fiendish Plan Revealed",
+          "description": null,
+          "date": {
+            "day": 25,
+            "month": 8,
+            "year": 1493
+          },
+          "id": "ID_9bf88a8b1858",
+          "note": "DM Notes - Nerd Night/Previous Session Notes/Session Notes - LVL 15/1.29.25 - Fiendish Plan Revealed.md",
+          "category": "ID_ea181839b93b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "1.2.25 - Turning the Fraathause",
+          "description": null,
+          "date": {
+            "day": 24,
+            "month": 8,
+            "year": 1493
+          },
+          "id": "ID_3b89394b0a1b",
+          "note": "DM Notes - Nerd Night/Previous Session Notes/Session Notes - LVL 15/1.2.25 - Turning the Fraathause.md",
+          "category": "ID_ea181839b93b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "12.26 - Fraat party",
+          "description": null,
+          "date": {
+            "day": 22,
+            "month": 8,
+            "year": 1493
+          },
+          "id": "ID_d9ea09bb39c8",
+          "note": "DM Notes - Nerd Night/Previous Session Notes/Session Notes - LVL 15/12.26 - Fraat party.md",
+          "category": "ID_ea181839b93b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "12.19.24 - Orbs and Puddings",
+          "description": null,
+          "date": {
+            "day": 21,
+            "month": 8,
+            "year": 1493
+          },
+          "id": "ID_8908fb3b9888",
+          "note": "DM Notes - Nerd Night/Previous Session Notes/Session Notes - LVL 15/12.19.24 - Orbs and Puddings.md",
+          "category": "ID_ea181839b93b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "12.5.24 - Painting Treehouses",
+          "description": null,
+          "date": {
+            "day": 20,
+            "month": 8,
+            "year": 1493
+          },
+          "id": "ID_79889a590a69",
+          "note": "DM Notes - Nerd Night/Previous Session Notes/Session Notes - LVL 15/12.5.24 - Painting Treehouses.md",
+          "category": "ID_ea181839b93b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "2.6.25 - To the orb",
+          "description": null,
+          "date": {
+            "day": 25,
+            "month": 8,
+            "year": 1493
+          },
+          "id": "ID_888abb1b491b",
+          "note": "DM Notes - Nerd Night/Previous Session Notes/Session Notes - LVL 15/2.6.25 - To the orb.md",
+          "category": "ID_ea181839b93b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Lazuli Falls",
+          "description": null,
+          "date": {
+            "day": 25,
+            "month": 8,
+            "year": 1493
+          },
+          "id": "ID_bb283b085a5b",
+          "note": "DM Notes - Nerd Night/Previous Session Notes/Session Notes - LVL 15/Lazuli Falls.md",
+          "category": "ID_ea181839b93b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "2.13.25 - Lazuli Falls",
+          "description": null,
+          "date": {
+            "day": 25,
+            "month": 8,
+            "year": 1493
+          },
+          "id": "ID_39581b8a99c8",
+          "note": "DM Notes - Nerd Night/Previous Session Notes/Session Notes - LVL 15/2.13.25 - Lazuli Falls.md",
+          "category": "ID_ea181839b93b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "2.20.25 - Atraxidos defeated",
+          "description": null,
+          "date": {
+            "day": 25,
+            "month": 8,
+            "year": 1493
+          },
+          "id": "ID_781bbb3abac8",
+          "note": "DM Notes - Nerd Night/Previous Session Notes/Session Notes - LVL 16/2.20.25 - Atraxidos defeated.md",
+          "category": "ID_ea181839b93b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "2.27.25 - The Bell of the Ball",
+          "description": null,
+          "date": {
+            "day": 25,
+            "month": 8,
+            "year": 1493
+          },
+          "id": "ID_58782b893b69",
+          "note": "DM Notes - Nerd Night/Previous Session Notes/Session Notes - LVL 16/2.27.25 - The Bell of the Ball.md",
+          "category": "ID_ea181839b93b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "3.20.25 - Goat Jousting",
+          "description": null,
+          "date": {
+            "day": 26,
+            "month": 8,
+            "year": 1493
+          },
+          "id": "ID_593bc8f9e819",
+          "note": "DM Notes - Nerd Night/Previous Session Notes/Session Notes - LVL 16/3.20.25 - Goat Jousting.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Range",
+          "end": {
+            "day": 28,
+            "month": 8,
+            "year": 1493
+          }
+        },
+        {
+          "name": "4.3.25 - The Call of the Fiend",
+          "description": null,
+          "date": {
+            "day": 29,
+            "month": 8,
+            "year": 1493
+          },
+          "id": "ID_b9aa6b59187a",
+          "note": "DM Notes - Nerd Night/Previous Session Notes/Session Notes - LVL 16/4.3.25 - The Call of the Fiend.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Range",
+          "end": {
+            "day": 1,
+            "month": 10,
+            "year": 1493
+          }
+        },
+        {
+          "name": "4.10.25 - Return to Haven",
+          "description": null,
+          "date": {
+            "day": 1,
+            "month": 10,
+            "year": 1493
+          },
+          "id": "ID_2b9aba4a0a68",
+          "note": "DM Notes - Nerd Night/Previous Session Notes/Session Notes - LVL 17/4.10.25 - Return to Haven.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Natural Events",
+          "id": "natural-events",
+          "color": "#2E7D32"
+        },
+        {
+          "name": "Festivals",
+          "id": "festivals",
+          "color": "#9b2c2c"
+        },
+        {
+          "id": "ID_ea181839b93b",
+          "color": "#e2566b",
+          "name": "Session Notes"
+        }
+      ],
+      "autoParse": false,
+      "path": [
+        "/"
+      ],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_39da6ae89998",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 1,
+    "minor": 4,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": []
+}

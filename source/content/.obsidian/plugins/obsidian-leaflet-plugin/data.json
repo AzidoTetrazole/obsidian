@@ -1,0 +1,413 @@
+{
+  "mapMarkers": [
+    {
+      "id": "LeilonRebuilt",
+      "lastAccessed": 1737923299574,
+      "markers": [
+        {
+          "id": "ID_ea28b9bb38db",
+          "type": "Tower",
+          "loc": [
+            -0.00051116943359375,
+            0.0003509521484375
+          ],
+          "layer": "%5B%5BLeilon_rebuilt.JPG.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.05874840357598978,
+            0.1416490486257928
+          ],
+          "description": "Myrtlewood Manor",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca6bd91ae9ab",
+          "type": "Tower",
+          "loc": [
+            -0.0010260343551635742,
+            0.0035002249296330326
+          ],
+          "layer": "%5B%5BLeilon_rebuilt.JPG.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "House of Thalivar",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b9ebd85b386b",
+          "type": "default",
+          "loc": [
+            -0.0022238492965698242,
+            0.0022865833187313738
+          ],
+          "layer": "%5B%5BLeilon_rebuilt.JPG.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Fishery",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_780aea389b88",
+          "type": "Temple",
+          "loc": [
+            -0.0019415616989135742,
+            0.0039353039976921175
+          ],
+          "layer": "%5B%5BLeilon_rebuilt.JPG.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Tymora Shrine",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_59bb1bd9ca4b",
+          "type": "default",
+          "loc": [
+            -0.0020560026168823242,
+            0.004324585269113404
+          ],
+          "layer": "%5B%5BLeilon_rebuilt.JPG.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Town Square",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b899cbbb7b9b",
+          "type": "Temple",
+          "loc": [
+            -0.0019263029098510742,
+            0.003255970014231441
+          ],
+          "layer": "%5B%5BLeilon_rebuilt.JPG.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Lathander Shrine",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Maps/Leilon.md"
+      ]
+    },
+    {
+      "id": "Faerun_Map",
+      "locked": false,
+      "lastAccessed": 1738127050992,
+      "markers": [
+        {
+          "id": "ID_c81ad91a0b1a",
+          "type": "Town",
+          "loc": [
+            1320.5219138658777,
+            1166.3725012690295
+          ],
+          "link": "Leilon",
+          "layer": "%5B%5BFaerun.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.20135495728438618,
+            -0.3522920203735145
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a99a2949fa79",
+          "type": "Town",
+          "loc": [
+            1352.8775733768903,
+            1191.2984182003975
+          ],
+          "link": "Phandalin",
+          "layer": "%5B%5BFaerun.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca49b88a38c8",
+          "type": "Temple",
+          "loc": [
+            1501.016444035472,
+            1140.02162692083
+          ],
+          "link": "Caulderon",
+          "layer": "%5B%5BFaerun.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e9ebd9983b9b",
+          "type": "Town",
+          "loc": [
+            1140.745539020926,
+            1268.0565702570198
+          ],
+          "layer": "%5B%5BFaerun.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Waterdeep",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fbda5afab9ab",
+          "type": "Tower",
+          "loc": [
+            969.5980766151413,
+            1144.4561812354275
+          ],
+          "layer": "%5B%5BFaerun.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Atraxidos",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fbbbbbda28da",
+          "type": "Town",
+          "loc": [
+            1632.886334455035,
+            936.8387493338373
+          ],
+          "link": "Eriiksvager",
+          "layer": "%5B%5BFaerun.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Eriiksvager",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "z_Templates/Region Map (Leaflet).md",
+        "Maps/Faerun World Map.md"
+      ]
+    },
+    {
+      "id": "FaerunWorldMap",
+      "locked": true,
+      "lastAccessed": 1738127052364,
+      "markers": [
+        {
+          "id": "ID_8a79087819b8",
+          "type": "Town",
+          "loc": [
+            -0.010929857930633129,
+            0.025938284843638724
+          ],
+          "link": "Leilon",
+          "layer": "%5B%5BFaerun.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4150125574982196,
+            0.2702505826606198
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_387b79693909",
+          "type": "Town",
+          "loc": [
+            -0.0102386474609375,
+            0.026504493920682153
+          ],
+          "link": "Phandalin",
+          "layer": "%5B%5BFaerun.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.42407190273091444,
+            0.2531597811733635
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0a99fb581aaa",
+          "type": "Temple",
+          "loc": [
+            -0.0070184618014281185,
+            0.025422960834957934
+          ],
+          "link": "Caulderon",
+          "layer": "%5B%5BFaerun.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Caulderon",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "Inn",
+      "iconName": "bed",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Temple",
+      "iconName": "church",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Tower",
+      "iconName": "chess-rook",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Comment",
+      "iconName": "comment-alt",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Town",
+      "iconName": "home",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}
