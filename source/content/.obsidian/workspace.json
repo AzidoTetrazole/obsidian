@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Tiny.md",
+                "file": "a_Campaign3/Test note under hidden folder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tiny"
+              "title": "Test note under hidden folder"
             }
           }
         ],
@@ -194,8 +194,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "1e1fa7c373f98418",
   "lastOpenFiles": [
+    "Characters/Tiny.md",
+    "a_Campaign3/Test note under hidden folder.md",
     "a_Campaign3",
     "Characters/Meany.md",
     "Characters/Konrad.md",
@@ -214,7 +216,6 @@
     "Riz's Ramblers/People/Parias (the Bishop).md",
     "Riz's Ramblers/People/Lazuli of Caulderon.md",
     "Riz's Ramblers/People/Koraboros.md",
-    "Characters/Tiny.md",
     "index.md",
     "Events in the Realms.md",
     "private/DM Notes/PC Notes/Tiny.md",
@@ -240,7 +241,6 @@
     "Riz's Ramblers/Places/Waterdeep",
     "Riz's Ramblers/Places/Phandalin",
     "Riz's Ramblers/Places/Port Llast",
-    "Riz's Ramblers/Places/Leilon",
     "private/z_assets/NerdNightHeader.png"
   ]
 }
