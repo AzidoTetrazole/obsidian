@@ -2,7 +2,7 @@
 title: Welcome Nerds!
 ---
 
-Hello world!
+Welcome friends, to the home of the Nerd Night!
 
 Write some words here!
 
