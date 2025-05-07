@@ -1,15 +1,7 @@
 ---
 title: Welcome Nerds!
 ---
-PNG below? 
-
-![[NNHeader2.png]]
-
-JPG Below?
-![[NNHeader2.jpg]]
-
-Barakus below?
-![[Barakus Enigma.jpg]]
+![[NerdNightHeader.png]]
 Welcome friends, to the home of the Nerd Night!
 
 This site will be used for table rules and world lore!
