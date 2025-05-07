@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "private/DM Notes/DMSessionNotes/Level 3/5.8.25 - Many Years Later.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "5.8.25 - Many Years Later"
             }
           }
         ],
@@ -194,8 +194,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "1e1fa7c373f98418",
   "lastOpenFiles": [
+    "Session Notes/Level 3.md",
+    "private/DM Notes/DMSessionNotes/Level 3/5.8.25 - Many Years Later.md",
+    "private/DM Notes/DMSessionNotes/Level 3",
+    "private/DM Notes/DMSessionNotes",
+    "private/DM Notes/Untitled.md",
+    "index.md",
+    "Session Notes",
     "z_assets/NNHeader2.png",
     "z_assets/NNHeader Snip.PNG",
     "z_assets/NerdNightHeader.png",
@@ -219,7 +226,6 @@
     "Riz's Ramblers/People/Parias (the Bishop).md",
     "Riz's Ramblers/People/Lazuli of Caulderon.md",
     "Riz's Ramblers/People/Koraboros.md",
-    "index.md",
     "Events in the Realms.md",
     "private/DM Notes/PC Notes/Tiny.md",
     "private/DM Notes/PC Notes/Meany.md",
@@ -227,19 +233,13 @@
     "private/DM Notes/PC Notes/Horson.md",
     "private/DM Notes/PC Notes",
     "private/Untitled",
-    "Riz's Ramblers/Player Characters/Barakus Enigma.md",
     "Characters/PCPortraits/Konrad.jpeg",
     "Characters/PCPortraits/Meany.png",
     "Characters/PCPortraits/Tiny.png",
-    "Riz's Ramblers/Places/Leilon/Town of Leilon.md",
-    "Riz's Ramblers/Places/Leilon/Thrugash.md",
     "private/z_Templates",
     "private/Previous Session Notes/Untitled",
     "Characters",
     "private/z_assets/SiteAssets/NNHeader Snip.PNG",
-    "private/z_assets/SiteAssets/NNHeader2.png",
-    "Riz's Ramblers/Places/Waterdeep",
-    "Riz's Ramblers/Places/Phandalin",
-    "Riz's Ramblers/Places/Port Llast"
+    "private/z_assets/SiteAssets/NNHeader2.png"
   ]
 }
