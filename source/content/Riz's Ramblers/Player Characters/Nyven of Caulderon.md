@@ -6,7 +6,7 @@ Daughter of [[Triptan of Caulderon]]
 
 Business partner of [[Barakus Enigma]] in [[TT's Tower]]
 
-Raised in the volcanic town of [[Places/Caulderon/Caulderon]], Nyven grew up under the watchful eye of her mother [[Triptan of Caulderon]]. Her childhood best friend was [[People/Lazuli]]. 
+Raised in the volcanic town of [[Village of Caulderon]], Nyven grew up under the watchful eye of her mother [[Triptan of Caulderon]]. Her childhood best friend was [[People/Lazuli]]. 
 
 When Lazuli fell under the sway of [[Koraboros]], Nyven too was drawn into a pact with the pit fiend.
 
