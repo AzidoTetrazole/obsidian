@@ -1,6 +1,6 @@
 ![[Colt Mooncaller.jpg|500]]
 
-Member of [[Riz's Ramblers]]
+Member of [[The Ramblers]]
 Former member of the [[Followers of Life]]
 Brother to [[Places/Leilon/Andrea Mooncaller]]
 
