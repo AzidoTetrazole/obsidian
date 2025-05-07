@@ -1,3 +1,3 @@
-![[Konrad.jpeg]]
+![[Konrad.jpeg|500]]
 
 ## Profile

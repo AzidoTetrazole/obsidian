@@ -1,3 +1,3 @@
-![[Cordelia.jpeg]]
+![[Cordelia.jpeg|500]]
 
 ## Profile

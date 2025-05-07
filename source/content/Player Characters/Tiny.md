@@ -1,3 +1,3 @@
-![[Tiny.png]]
+![[Tiny.png|500]]
 
 ## Profile
