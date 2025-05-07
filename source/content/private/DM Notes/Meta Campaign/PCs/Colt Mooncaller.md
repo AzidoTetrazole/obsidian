@@ -1,4 +1,4 @@
-![[Colt Mooncaller.jpg|500]]
+![[private/z_assets/PCPortraits/Colt Mooncaller.jpg|500]]
 Member of the [[Followers of Life]]
 Brother to [[Places/Leilon/Andrea Mooncaller]]
 

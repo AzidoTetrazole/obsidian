@@ -1,4 +1,4 @@
-![[Triptan.jpg|500]]
+![[private/z_assets/PCPortraits/Triptan.jpg|500]]
 Mother of [[Nyven]]
 
 Triptan spent many years as the High Priestess of [[Village of Caulderon]], watching over the temple to Miðgarðsormr. Her daughter Nyven grew up in the relative safety of Caulderon, until that safety was pierced by the Fiend. The Fiend first took Lazuli, Nyven’s childhood friend. Through Lazuli’s influence, Nyven soon had bound herself to the Fiend.   

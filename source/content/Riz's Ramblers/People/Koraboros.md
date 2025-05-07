@@ -1,4 +1,4 @@
-![Koraboros - Pit Fiend](private/z_assets/NPC%20Portraits/Koraboros%20-%20Pit%20Fiend.png)
+![Koraboros - Pit Fiend](private/z_assets/NPCPortraits/Koraboros%20-%20Pit%20Fiend.png)
 
 Bound via pact to [[People/Lazuli]] and [[Nyven of Caulderon]]
 ## Profile

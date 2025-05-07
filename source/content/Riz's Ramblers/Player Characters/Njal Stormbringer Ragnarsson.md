@@ -1,4 +1,4 @@
-![[Njal.jpg|500]]
+![[private/z_assets/PCPortraits/Njal.jpg|500]]
 
 Founding member of [[The Ramblers]]
 Husband of [[Riz's Ramblers/Player Characters/Lapis|Lapis]]

@@ -1,4 +1,4 @@
-![[Barakus Enigma.jpg|500]]
+![[private/z_assets/PCPortraits/Barakus Enigma.jpg|500]]
 
 Founding Member of [[The Ramblers]]
 

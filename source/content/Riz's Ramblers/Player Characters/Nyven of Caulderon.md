@@ -1,5 +1,5 @@
 
-![[Nyven.jpg|500]]
+![[private/z_assets/PCPortraits/Nyven.jpg|500]]
 ## Profile
 Founding member of [[The Ramblers]]
 Daughter of [[Triptan of Caulderon]]

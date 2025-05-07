@@ -1,4 +1,4 @@
 # Profile
 Gruff short tempered dwarf. In charge of much of the reconstruction of Leilon.
 
-![[Grizzelda.jpg|500]]
+![[private/z_assets/NPCPortraits/Grizzelda.jpg|500]]

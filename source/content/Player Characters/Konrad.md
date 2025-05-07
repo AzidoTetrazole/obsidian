@@ -1,3 +1,3 @@
-![Konrad](private/z_assets/PC%20Portraits/Konrad.jpeg)
+![Konrad](private/z_assets/PCPortraits/Konrad.jpeg)
 
 ## Profile

@@ -1,5 +1,5 @@
 
-|     | ![[Nyven.jpg\|500]] |
+|     | ![[private/z_assets/PCPortraits/Nyven.jpg\|500]] |
 | --- | ------------------- |
 |     |                     |
 **Character Arc's:**  

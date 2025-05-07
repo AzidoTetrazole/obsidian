@@ -6,4 +6,4 @@ A coward at heart, chooses to raid only easy targets, and give many of the goods
 
 Dethroned by the Ramblers, and forced into indentured servitude by Njal and Astrid.
 
-![[Jarl Harald.jpg|300]]
+![[private/z_assets/NPCPortraits/Jarl Harald.jpg|300]]

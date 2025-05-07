@@ -1,4 +1,4 @@
-![[Thelid.jpg|500]]
+![[private/z_assets/PCPortraits/Thelid.jpg|500]]
 Half-orc warrior
 Longtime friend of [[Ariadne Vosamo]]
 Shaman of [[Platanism]]

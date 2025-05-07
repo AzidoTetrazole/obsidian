@@ -1,5 +1,5 @@
 ## Picture
 
-![Tiny](private/z_assets/PC%20Portraits/Tiny.png)
+![Tiny](private/z_assets/PCPortraits/Tiny.png)
 
 ## Profile

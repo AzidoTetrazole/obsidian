@@ -1,4 +1,4 @@
-![[Rizlyn.jpg|500]]
+![[private/z_assets/PCPortraits/Rizlyn.jpg|500]]
 
 Rizlyn was a half-elf drow bard. He was a court entertainer in Port Llast, before being imprisoned for attempting to foment a rebellion. with the assistance of Barakus and Thelid, Rizlyn was able to escape imprisonment. He fell in battle in Axeholm against a banshee, after which the party named itself the "Riz's Ramblers".
 

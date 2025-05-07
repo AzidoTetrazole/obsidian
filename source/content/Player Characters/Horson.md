@@ -1,2 +1,2 @@
-![Horson](private/z_assets/PC%20Portraits/Horson.png)
+![Horson](private/z_assets/PCPortraits/Horson.png)
 ## Profile
