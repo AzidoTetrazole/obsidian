@@ -1,2 +1,2 @@
-![Meany](private/z_assets/PCPortraits/Meany.png)
+![Meany](PCPortraits/Meany.png)
 ## Profile

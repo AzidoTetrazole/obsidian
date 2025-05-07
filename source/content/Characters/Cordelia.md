@@ -1,2 +1,3 @@
-![[PCPortraits/Cordelia.jpeg]]
+![[Characters/PCPortraits/Cordelia.jpeg]]
 ## Profile
+Test profile language
