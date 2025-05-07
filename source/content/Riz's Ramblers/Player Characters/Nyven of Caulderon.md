@@ -1,10 +1,10 @@
 
 ![[Nyven.jpg|500]]
+## Profile
 Founding member of [[The Ramblers]]
-
 Daughter of [[Triptan of Caulderon]]
-
 Business partner of [[Barakus Enigma]] in [[TT's Tower]]
+Childhood friend of [[Lazuli of Caulderon]]
 
 Raised in the volcanic town of [[Village of Caulderon]], Nyven grew up under the watchful eye of her mother [[Triptan of Caulderon]]. Her childhood best friend was [[People/Lazuli]]. 
 

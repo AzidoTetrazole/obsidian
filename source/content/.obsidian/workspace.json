@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Riz's Ramblers/People/Lazuli of Caulderon.md",
+                "file": "private/z_Templates/Private Character Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lazuli of Caulderon"
+              "title": "Private Character Template"
             }
           }
         ]
@@ -177,12 +177,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "331ac7909c94bffd",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "private/z_Templates/Public Character Template.md",
+    "private/z_Templates/Private Character Template.md",
+    "private/Previous Session Notes/Campaign Wrapup.md",
+    "private/z_Templates",
+    "private/Previous Session Notes/Campaign Recap.md",
+    "Riz's Ramblers/Player Characters/Nyven of Caulderon.md",
+    "private/Previous Session Notes/Untitled",
     "Riz's Ramblers/People/Koraboros.md",
+    "Riz's Ramblers/People/Parias (the Bishop).md",
     "Riz's Ramblers/People/Lazuli of Caulderon.md",
     "Untitled.md",
     "Untitled 1.md",
@@ -207,12 +216,6 @@
     "Riz's Ramblers/Places/Phandalin/Phandalin.md",
     "Riz's Ramblers/Places/Phandalin/Roscoe Cobbletop.md",
     "Riz's Ramblers/Player Characters/Barakus Enigma.md",
-    "Riz's Ramblers/People/Roscoe Cobbletop.md",
-    "Riz's Ramblers/Places/Leilon/Others.md",
-    "Riz's Ramblers/Places/Eriiksvager/Ragnar.md",
-    "Riz's Ramblers/Places/Eriiksvager/Village of Eriiksvager.md",
-    "Riz's Ramblers/Places/Caulderon/Village of Caulderon.md",
-    "Riz's Ramblers/Places/Atraxidos (Island)/Atraxidos.md",
     "Riz's Ramblers/Places/Waterdeep",
     "Riz's Ramblers/Places/Phandalin",
     "Riz's Ramblers/Places/Port Llast",
@@ -220,8 +223,6 @@
     "Riz's Ramblers/Places/Eriiksvager",
     "Riz's Ramblers/Places/Atraxidos (Island)",
     "Riz's Ramblers/Places/Caulderon",
-    "Riz's Ramblers/Places",
-    "Riz's Ramblers/People",
     "private/z_assets/NerdNightHeader.png",
     "private/z_assets/SiteAssets/NNHeader2.jpg",
     "Pictures/Thelid.jpg",
