@@ -1,6 +1,8 @@
 ---
 title: Welcome Nerds!
 ---
+![[private/z_assets/NNHeader2.png]]
+
 Welcome friends, to the home of the Nerd Night!
 
 This site will be used for table rules and world lore!
