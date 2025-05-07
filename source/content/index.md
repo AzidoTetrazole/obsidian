@@ -4,9 +4,6 @@ title: Welcome Nerds!
 Welcome friends, to the home of the Nerd Night!
 
 This site will be used for table rules and world lore!
-
-Header
-![[NNHeader Snip.PNG]]
 ## Campaign Introduction
 
 Its been nearly 25 years since the Breaching, when the hierarchy of the Gods was shattered at the hands of mortals. For nearly a decade after the Breaching, Faerun was in a state of chaos. Tales are plenty of divinity, nature, time, and the realms unbound. Gods that walked the mortal plane for the first time in millennia. The sun and moon whirled chaotically across the sky. Weather and seasons were unmoored from the passage of time. Entire landscapes were shaped by unleashed deities and nature.
