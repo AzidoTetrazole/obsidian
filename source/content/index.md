@@ -1,6 +1,7 @@
 ---
 title: Welcome Nerds!
 ---
+Picture below?
 ![[NNHeader2.png]]
 Welcome friends, to the home of the Nerd Night!
 
