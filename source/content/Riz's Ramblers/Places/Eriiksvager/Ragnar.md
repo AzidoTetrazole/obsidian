@@ -1,5 +1,3 @@
-# DM Notes
-
 # Profile
 Father of [[Njal Stormbringer Ragnarsson]]
 

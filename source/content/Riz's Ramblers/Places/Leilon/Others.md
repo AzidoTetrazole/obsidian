@@ -1,1 +1,0 @@
-Myrtle and Earl Brynjal - jewelers - Myrtle (southern drawl)

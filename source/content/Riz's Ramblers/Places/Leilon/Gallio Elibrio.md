@@ -1,5 +1,3 @@
-# DM Notes
-
 # Profile
 ![[Gallio Elibrio.jpg|500]]
 A member of the [[Cloak of Many Stars]]

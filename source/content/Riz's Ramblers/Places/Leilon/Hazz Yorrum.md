@@ -1,5 +1,3 @@
-# DM Notes
-Yorrum has found faith in Platanism, and is travelling under the pseudonym "The Broken One"
 # Profile
 Yorrum was in charge of the local garrison for Neverwintan soldiers representing Dagult Neverember's interests in Leilon. His task was to defend the settlers during the town's reconstruction. However, Yorrum was sluggish and corrupt, and he acted cowardly. When Leilon was attacked by members of the Cult of Talos, Yorrum fled rather than defend the townspeople. The Ramblers were able to defeat the attacking cultists, and liberate Leilon from the Talosians. The Ramblers then brought Yorrum with them into the House of Thallivar. During the conflict there with the stone golems, Yorrum again fled, this time volunteering to join a patrol leaving town. The Ramblers held Yorrum responsible for the loss of Nyven because of his cowardice. They followed him into the Mere of Dead Men, where he had been captured by lizardfolk. After their return to Leilon, Yorrum was put to trial, with the Ramblers being the prosecution. Yorrum was found guilty of cowardice, and dereliction of duty. He was banished from Leilon, and the lands of Neverwinter.
 

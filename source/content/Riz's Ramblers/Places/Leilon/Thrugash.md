@@ -1,5 +1,3 @@
-# DM Notes
-
 # Profile
 A captured orc, who has been... hired... by the Ramblers.
 

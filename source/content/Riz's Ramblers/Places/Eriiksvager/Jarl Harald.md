@@ -1,5 +1,3 @@
-### DM Notes
-
 ### Profile
 Father of [[Astrid Jarlsdotter]]
 Banished [[Njal Stormbringer Ragnarsson]]
