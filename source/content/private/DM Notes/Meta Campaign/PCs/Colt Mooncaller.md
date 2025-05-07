@@ -1,4 +1,4 @@
-![[private/z_assets/PCPortraits/Colt Mooncaller.jpg|500]]
+![[z_assets/PCPortraits/Colt Mooncaller.jpg|500]]
 Member of the [[Followers of Life]]
 Brother to [[Places/Leilon/Andrea Mooncaller]]
 
@@ -50,7 +50,7 @@ Brother to [[Places/Leilon/Andrea Mooncaller]]
     - Torm (Duty/loyalty) - Symbol: Palm of an armored gauntlet
 - The Followers of Life harnessed the natural power in Colt through an oath to Xemnus, and taught him blood rites to enhance that power. Colt has been called to any number of tasks by the Followers, both mundane and fantastic. Whether destroying shipments of grain, delivering packages or messages, or using his abilities to destroy monsters, the Followers have required absolute dedication and shared none of their strategy or overall goals with Colt.
 - Xemnus Symbol:
-- ![Exported image](Followers%20of%20Life%20Sigil.png)
+- ![Exported image](z_assets/Group%20Images/Followers%20of%20Life%20Sigil.png)
 
 Brand has been there since he can remember
 

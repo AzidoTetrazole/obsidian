@@ -1,4 +1,4 @@
-![[private/z_assets/PCPortraits/Triptan.jpg|500]]
+![[z_assets/PCPortraits/Triptan.jpg|500]]
 Member of [[The Ramblers]]
 
 Mother of [[Nyven of Caulderon]]

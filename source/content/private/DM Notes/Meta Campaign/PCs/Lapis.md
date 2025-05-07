@@ -1,4 +1,4 @@
-![[private/z_assets/PCPortraits/Lapis.jpg|500]]
+![[z_assets/PCPortraits/Lapis.jpg|500]]
 
 | Learning to bring back the dead was a main reason for learning magic<br> <br>lived at home  <br>Journaled as she gained her abilities  <br>Traveled through libraries and monestaries  <br>Doesn't know of a magical bloodline  <br>Parents are human! She is water genasi.  <br>Fisherman & Cook  <br>Use for magic - used her powers to help the family  <br>Innate curiousity to explore and see | <br> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |

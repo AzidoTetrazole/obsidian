@@ -1,4 +1,4 @@
-![[private/z_assets/PCPortraits/Thelid.jpg|500]]
+![[z_assets/PCPortraits/Thelid.jpg|500]]
 Member of [[The Ramblers]]
 Longtime friend of [[Ariadne Vosamo]]
 Shaman of [[Platanism]]

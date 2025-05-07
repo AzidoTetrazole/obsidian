@@ -1,4 +1,4 @@
-![[private/z_assets/PCPortraits/Rizlyn.jpg|500]]
+![[z_assets/PCPortraits/Rizlyn.jpg|500]]
 Founding member of [[The Ramblers]]
 
 Close friend of [[Riz's Ramblers/Player Characters/Thelid|Thelid]]

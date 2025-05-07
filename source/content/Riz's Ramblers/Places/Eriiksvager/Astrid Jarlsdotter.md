@@ -11,4 +11,4 @@ The daughter of the [[Jarl Harald]] who ruled over [[Village of Eriiksvager]] th
 
 After the defeat of Jarl Harald, Njal named Astrid as the new Jarl of Eriiksvager.
 
-![[private/z_assets/NPCPortraits/Astrid Jarlsdotter.jpg|300]]
+![[z_assets/NPCPortraits/Astrid Jarlsdotter.jpg|300]]

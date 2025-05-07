@@ -1,4 +1,4 @@
-![[private/z_assets/PCPortraits/Barakus Enigma.jpg|500]]
+![[z_assets/PCPortraits/Barakus Enigma.jpg|500]]
 
 - Born in Fort Locke, just south of the mere of dead men, south of Neverwinter.
 - Arc

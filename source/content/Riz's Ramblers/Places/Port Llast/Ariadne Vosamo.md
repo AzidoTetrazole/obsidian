@@ -9,4 +9,4 @@ Ariadne Vosamo is the daughter of Kadik Vosamo , the militia leader based in Por
 
 Ariadne was kidnapped and taken back to Port Llast, and nearly forced to marry [[Haermos Dothwintyl]]. The Ramblers arrived in time to save her from her fate, and stop the invasion of mind-flayers.
 
-![[private/z_assets/NPCPortraits/Ariadne.jpg|500]]
+![[z_assets/NPCPortraits/Ariadne.jpg|500]]

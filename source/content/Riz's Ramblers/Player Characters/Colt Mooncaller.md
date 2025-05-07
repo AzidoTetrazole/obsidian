@@ -1,4 +1,4 @@
-![[private/z_assets/PCPortraits/Colt Mooncaller.jpg|500]]
+![[z_assets/PCPortraits/Colt Mooncaller.jpg|500]]
 
 Member of [[The Ramblers]]
 Former member of the [[Followers of Life]]

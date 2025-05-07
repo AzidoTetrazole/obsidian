@@ -1,4 +1,4 @@
-![[private/z_assets/PCPortraits/Lapis.jpg|500]]
+![[z_assets/PCPortraits/Lapis.jpg|500]]
 
 Member of [[The Ramblers]]
 Wife of [[Riz's Ramblers/Player Characters/Njal Stormbringer Ragnarsson|Njal Stormbringer Ragnarsson]]

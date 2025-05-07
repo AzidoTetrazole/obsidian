@@ -5,4 +5,4 @@ His honor stripped due to Njal's disobediance, he was sent by [[Jarl Harald]] to
 
 After the dethroning of [[Jarl Harald]], Ragnar has been a close advisor to the new Jarl, [[Astrid Jarlsdotter]]
 
-![[private/z_assets/NPCPortraits/Ragnar.jpg|300]]
+![[z_assets/NPCPortraits/Ragnar.jpg|300]]

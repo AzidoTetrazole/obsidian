@@ -1,5 +1,5 @@
 # Profile
-![[private/z_assets/NPCPortraits/Gallio Elibrio.jpg|500]]
+![[z_assets/NPCPortraits/Gallio Elibrio.jpg|500]]
 A member of the [[Cloak of Many Stars]]
 Subordinate of [[People/Simihr Biwyll|Simihr Biwyll]]
 Former keeper of the [[House of Thalivar]] in the center of [[Town of Leilon|Town of Leilon]]
