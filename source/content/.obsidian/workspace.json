@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Private/DM Notes/Meta Campaign/PCs/Barakus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Barakus"
             }
           }
         ]
@@ -180,8 +180,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "331ac7909c94bffd",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "index.md",
     "Private/z_assets/PC Portraits/Triptan.jpg",
     "Private/z_assets/PC Portraits/Thelid.jpg",
     "Private/z_assets/PC Portraits/Rizlyn 2.jfif",
@@ -194,39 +195,38 @@
     "Private/z_assets/PC Portraits",
     "Private/z_assets/NPC Portraits/Thrugash.jpg",
     "Private/z_assets/NPC Portraits/simihr 2.jpg",
-    "Private/z_assets/NPC Portraits/Sarissa.jpg",
     "Private/z_assets/NPC Portraits/Lyra.jfif",
     "Private/z_assets/NPC Portraits/Elara.jfif",
     "Private/z_assets/NPC Portraits",
     "Private/z_assets/Maps",
     "Private/z_assets/Group Images",
-    "Private/DM Notes - Nerd Night/Session Notes/Travel Encounter.md",
-    "Private/DM Notes - Nerd Night/Session Notes/Prep Ideas.md",
-    "Private/DM Notes - Nerd Night/Session Notes/Haven Session Prep.md",
-    "Private/DM Notes - Nerd Night/Session Notes/Encounter Ideas.md",
-    "Private/DM Notes - Nerd Night/Session Notes/Deck of Many Things.md",
-    "Private/DM Notes - Nerd Night/Session Notes/Claugilimitar's Lair.md",
-    "Private/DM Notes - Nerd Night/Session Notes/a_Session Prep.md",
-    "Private/DM Notes - Nerd Night/Session Notes",
-    "Private/DM Notes - Nerd Night/Rewards/Unidentified Items.md",
-    "Private/DM Notes - Nerd Night/Rewards/Magic Gear.md",
-    "Private/DM Notes - Nerd Night/Rewards/Low power items.md",
-    "Private/DM Notes - Nerd Night/Rewards/Magic Weapons.md",
-    "Private/DM Notes - Nerd Night/Rewards/FeatSkills Rewards.md",
-    "Private/DM Notes - Nerd Night/Rewards/Custom Magic.md",
-    "Private/DM Notes - Nerd Night/Rewards",
-    "Private/DM Notes - Nerd Night/Resources/The Complete Hippo (2021 Update).md",
-    "Private/DM Notes - Nerd Night/Resources/Optional Rules.md",
-    "Private/DM Notes - Nerd Night/Resources/New Player Resources.md",
-    "Private/DM Notes - Nerd Night/Resources/Gambling Games.md",
-    "Private/DM Notes - Nerd Night/Resources",
-    "Private/DM Notes - Nerd Night/Random Tables/NPC.md",
-    "Private/DM Notes - Nerd Night/Random Tables/Encounters.md",
-    "Private/DM Notes - Nerd Night/Quests/Previous Campaign.md",
-    "Private/DM Notes - Nerd Night/Quests/Outstanding enemies.md",
-    "Private/DM Notes - Nerd Night/Quests/Lycanthropy.md",
-    "Private/DM Notes - Nerd Night/Quests/Ideas.md",
-    "Private/DM Notes - Nerd Night/Quests/Black Dragons List.md",
-    "Private/DM Notes - Nerd Night/Previous Session Notes/Session Notes - LVL 17/Untitled.md"
+    "Private/DM Notes/Session Notes/Travel Encounter.md",
+    "Private/DM Notes/Session Notes/Prep Ideas.md",
+    "Private/DM Notes/Session Notes/Haven Session Prep.md",
+    "Private/DM Notes/Session Notes/Encounter Ideas.md",
+    "Private/DM Notes/Session Notes/Deck of Many Things.md",
+    "Private/DM Notes/Session Notes/Claugilimitar's Lair.md",
+    "Private/DM Notes/Session Notes/a_Session Prep.md",
+    "Private/DM Notes/Session Notes",
+    "Private/DM Notes/Rewards/Unidentified Items.md",
+    "Private/DM Notes/Rewards/Magic Gear.md",
+    "Private/DM Notes/Rewards/Low power items.md",
+    "Private/DM Notes/Rewards/Magic Weapons.md",
+    "Private/DM Notes/Rewards/FeatSkills Rewards.md",
+    "Private/DM Notes/Rewards/Custom Magic.md",
+    "Private/DM Notes/Rewards",
+    "Private/DM Notes/Resources/The Complete Hippo (2021 Update).md",
+    "Private/DM Notes/Resources/Optional Rules.md",
+    "Private/DM Notes/Resources/New Player Resources.md",
+    "Private/DM Notes/Resources/Gambling Games.md",
+    "Private/DM Notes/Resources",
+    "Private/DM Notes/Random Tables/NPC.md",
+    "Private/DM Notes/Random Tables/Encounters.md",
+    "Private/DM Notes/Quests/Previous Campaign.md",
+    "Private/DM Notes/Quests/Outstanding enemies.md",
+    "Private/DM Notes/Quests/Lycanthropy.md",
+    "Private/DM Notes/Quests/Ideas.md",
+    "Private/DM Notes/Quests/Black Dragons List.md",
+    "Private/DM Notes/Previous Session Notes/Session Notes - LVL 17/Untitled.md"
   ]
 }
