@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Characters/Meany.md",
+                "file": "Player Characters/Cordelia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meany"
+              "title": "Cordelia"
             }
           }
         ]
@@ -181,10 +181,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "331ac7909c94bffd",
   "lastOpenFiles": [
-    "private/z_assets/PCPortraits/Cordelia.jpeg",
+    "Player Characters/Horson.md",
     "Player Characters/Cordelia.md",
+    "Player Characters/Axel.md",
+    "Player Characters/Meany.md",
+    "private/z_assets/PCPortraits/Cordelia.jpeg",
     "Riz's Ramblers/Places/Eriiksvager/Astrid Jarlsdotter.md",
     "Riz's Ramblers/Player Characters/Njal Stormbringer Ragnarsson.md",
     "Riz's Ramblers/Places/Caulderon/Village of Caulderon.md",
@@ -193,10 +196,7 @@
     "Riz's Ramblers/People/Lazuli of Caulderon.md",
     "Riz's Ramblers/People/Koraboros.md",
     "Player Characters/Tiny.md",
-    "Player Characters/Meany.md",
     "Player Characters/Konrad.md",
-    "Player Characters/Horson.md",
-    "Player Characters/Axel.md",
     "index.md",
     "Events in the Realms.md",
     "private/DM Notes/PC Notes/Tiny.md",
