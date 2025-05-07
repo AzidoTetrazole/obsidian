@@ -2,5 +2,5 @@
 
 ## Public Profile
 
-![[Player Characters/Meany|Meany]]
+![[../../../Characters/Meany|Meany]]
 

@@ -2,5 +2,5 @@
 
 ## Public Profile
 
-![[Player Characters/Konrad|Konrad]]
+![[../../../Characters/Konrad|Konrad]]
 

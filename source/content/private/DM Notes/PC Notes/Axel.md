@@ -2,5 +2,5 @@
 
 ## Public Profile
 
-![[Player Characters/Axel|Axel]]
+![[../../../Characters/Axel|Axel]]
 

@@ -2,5 +2,5 @@
 
 ## Public Profile
 
-![[Player Characters/Cordelia|Cordelia]]
+![[../../../Characters/Cordelia|Cordelia]]
 

@@ -1,0 +1,2 @@
+![[PCPortraits/Cordelia.jpeg]]
+## Profile

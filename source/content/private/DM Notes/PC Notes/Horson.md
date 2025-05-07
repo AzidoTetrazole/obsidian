@@ -2,5 +2,5 @@
 
 ## Public Profile
 
-![[Player Characters/Horson|Horson]]
+![[../../../Characters/Horson|Horson]]
 
