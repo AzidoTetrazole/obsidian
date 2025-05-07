@@ -180,14 +180,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "331ac7909c94bffd",
   "lastOpenFiles": [
+    "private/z_assets/SiteAssets/NNHeader2.jpg",
+    "index.md",
     "private/z_assets/SiteAssets/NNHeader2.png",
     "private/z_assets/SiteAssets",
     "private/Previous Session Notes/Session Notes - LVL 17/4.10.25 - Return to Haven.md",
     "private/Previous Session Notes/Campaign Recap.md",
     "private/Previous Session Notes/Campaign Wrapup.md",
-    "index.md",
     "private/Previous Session Notes/Session Notes - LVL 17/Untitled.md",
     "private/Previous Session Notes/Session Notes - LVL 17",
     "private/Previous Session Notes/Session Notes - LVL 16/4.3.25 - The Call of the Fiend.md",
@@ -225,8 +226,6 @@
     "Pictures/Lapis.jpg",
     "Pictures/Colt Mooncaller.jpg",
     "Pictures/Barakus Enigma.jpg",
-    "Pictures/Triptan.jpg",
-    "Breaking Plates.png",
-    "Exported image 20241008220120-0.png"
+    "Pictures/Triptan.jpg"
   ]
 }
