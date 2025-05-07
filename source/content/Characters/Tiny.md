@@ -1,5 +1,5 @@
 ## Picture
 
-![Tiny](PCPortraits/Tiny.png)
+![[Characters/PCPortraits/Tiny.png]]
 
 ## Profile

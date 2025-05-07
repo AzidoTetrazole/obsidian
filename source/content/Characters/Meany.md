@@ -1,2 +1,2 @@
-![Meany](PCPortraits/Meany.png)
+![[Characters/PCPortraits/Meany.png]]
 ## Profile

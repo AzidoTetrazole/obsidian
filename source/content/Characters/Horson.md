@@ -1,2 +1,2 @@
-![Horson](PCPortraits/Horson.png)
+![[Characters/PCPortraits/Horson.png]]
 ## Profile

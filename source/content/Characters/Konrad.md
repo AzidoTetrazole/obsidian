@@ -1,3 +1,3 @@
-![Konrad](PCPortraits/Konrad.jpeg)
+![[Characters/PCPortraits/Konrad.jpeg]]
 
 ## Profile
