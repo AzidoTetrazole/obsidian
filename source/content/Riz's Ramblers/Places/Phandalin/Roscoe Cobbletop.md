@@ -1,6 +1,3 @@
-
-# DM Notes
-
 # Profile
 Retired Adventurer
 Leader of [[The Black Spider]]

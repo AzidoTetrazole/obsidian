@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Riz's Ramblers/Places/Leilon/Others.md",
+                "file": "Riz's Ramblers/Places/Waterdeep/Nazra Mrays.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Others"
+              "title": "Nazra Mrays"
+            }
+          },
+          {
+            "id": "e9571acb2c1b04df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "63592755f79c6109",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,9 +209,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "331ac7909c94bffd",
+  "active": "63592755f79c6109",
   "lastOpenFiles": [
+    "private/z_assets/SiteAssets/NNHeader Snip.PNG",
+    "private/z_assets/SiteAssets/NNHeader2.png",
+    "Campaign 3 Introduction.md",
+    "index.md",
+    "Table Contract.md",
+    "Riz's Ramblers/Places/Waterdeep/Nazra Mrays.md",
+    "Riz's Ramblers/Places/Waterdeep/Waterdeep.md",
+    "Riz's Ramblers/Places/Port Llast/Port Llast.md",
     "Riz's Ramblers/Places/Leilon/Town of Leilon.md",
+    "Riz's Ramblers/Places/Phandalin/Phandalin.md",
+    "Riz's Ramblers/Places/Phandalin/Roscoe Cobbletop.md",
+    "Riz's Ramblers/Player Characters/Barakus Enigma.md",
+    "Riz's Ramblers/People/Roscoe Cobbletop.md",
+    "Riz's Ramblers/Places/Leilon/Others.md",
     "Riz's Ramblers/Places/Eriiksvager/Ragnar.md",
     "Riz's Ramblers/Places/Eriiksvager/Village of Eriiksvager.md",
     "Riz's Ramblers/Places/Caulderon/Village of Caulderon.md",
@@ -191,35 +233,22 @@
     "Riz's Ramblers/Places/Eriiksvager/Astrid Jarlsdotter.md",
     "Riz's Ramblers/Places/Caulderon/Sarissa.md",
     "private/DM Notes/Meta Campaign/Campaign 3.md",
-    "Riz's Ramblers/Places/Waterdeep/Waterdeep.md",
-    "Riz's Ramblers/Places/Waterdeep/Nazra Mrays.md",
-    "Riz's Ramblers/Places/Phandalin/Roscoe Cobbletop.md",
-    "Riz's Ramblers/Places/Phandalin/Phandalin.md",
-    "Riz's Ramblers/Places/Port Llast/Port Llast.md",
     "Riz's Ramblers/Places/Port Llast/Haermos Dothwintyl.md",
     "Riz's Ramblers/Places/Port Llast/Ariadne Vosamo.md",
     "Riz's Ramblers/Places/Leilon/Thrugash.md",
-    "Riz's Ramblers/Places/Leilon/Others.md",
     "Riz's Ramblers/Places/Leilon/Grizzelda Copperwraught.md",
     "Riz's Ramblers/Places/Leilon/Hazz Yorrum.md",
-    "Riz's Ramblers/Places/Leilon/Gallio Elibrio.md",
-    "Riz's Ramblers/Places/Leilon/Aubrey Silverspun.md",
-    "Riz's Ramblers/Places/Leilon/Andrea Mooncaller.md",
     "Riz's Ramblers/Places/Waterdeep",
     "Riz's Ramblers/Places/Phandalin",
     "Riz's Ramblers/Places/Port Llast",
-    "Riz's Ramblers/Places/Other.md",
     "Riz's Ramblers/Places/Leilon",
     "Riz's Ramblers/Places/Eriiksvager",
     "Riz's Ramblers/Places/Atraxidos (Island)",
     "Riz's Ramblers/Places/Caulderon",
     "Riz's Ramblers/Places",
-    "Campaign Wrapup.md",
-    "Contract.md",
     "Riz's Ramblers/People",
     "Riz's Ramblers/Player Characters",
     "private/z_assets/NerdNightHeader.png",
-    "private/z_assets/SiteAssets/NNHeader2.png",
     "private/z_assets/SiteAssets/NNHeader2.jpg",
     "Pictures/Thelid.jpg",
     "Pictures/Rizlyn.jpg",
