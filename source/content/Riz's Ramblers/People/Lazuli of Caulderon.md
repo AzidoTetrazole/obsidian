@@ -1,4 +1,4 @@
-![[Lazuli - First Chosen of Koraborus.png|500]]
+![Lazuli - First Chosen of Koraborus](private/z_assets/NPC%20Portraits/Lazuli%20-%20First%20Chosen%20of%20Koraborus.png)
 # Profile
 Friend & paramore of [[Nyven of Caulderon]]
 Grew up in [[Village of Caulderon]]
