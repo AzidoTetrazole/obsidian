@@ -1,0 +1,3 @@
+- Stands in Tar - Captain tossed overboard by Thelid
+- Velleen Firecrow - Master Thief - attacked the party in Phandolin
+- Hazz Yorrum - former town guard of Leilon

@@ -1,0 +1,13 @@
+Avandra's Favor (Min 5 gp buy-in).** A player rolls 2d6. If they roll a 7 or 12, they win. They can double their bet to add 1d6 to the total. Payout for winning players is 3:2.
+ > From <[https://messages.google.com/web/conversations/991](https://messages.google.com/web/conversations/991)>   
+Liar’s Dice (Min 10 gp buy-in).** A player rolls 5d6 and keeps their roll secret. Each player takes turns bidding a face value and a number equal to the number of dice showing said face value amongst all player’s dice. A player has two choices during their turn: make a higher bid or challenge the previous player’s bid. Raising the bid means either increasing the quantity, or the face value, or both. If a bid is challenged, all dice are revealed. If the bid is true, the bidder wins and the challenger is eliminated. If the bid is false, the challenger wins and the bidder is eliminated.
+ > From <[https://messages.google.com/web/conversations/991](https://messages.google.com/web/conversations/991)>   
+Tymora’s Spinner - Roulette (Min 10 gp buy-in).**  
+DM rolls a d100, but players place bets first. Players can bet on even or odd for 2-1 pay out, a range of ten (say between 21 and 31) for 5-1 pay out, or a specific number for 100-1 pay out.
+   
+
+Twenty-One (Min 25 gp buy-in).** A player rolls 2d10. The dealer does the same, keeping the first die hidden. Each player, including the dealer, takes turns rolling any number of additional d10s. All die faces are face value, except for the 1, which can be worth 1 or 11. If the dealer scores a 21, all players lose. If a player scores a 21, they win. If neither occurs, a player loses if their total is less than the dealer’s, and wins if their total is greater than the dealer’s. Payout for winning players is 3:2. If both the dealer and a player score a 21, that player wins their bet back 1:1.
+ > From <[https://messages.google.com/web/conversations/991](https://messages.google.com/web/conversations/991)>   
+Hand of Fate  
+Each card player rolls 1d8, keeping the die hidden. Each player has the chance to raise the bet, call the bet (meet it), or fold. It continues when all bets are equal. Then each player rolls a 1d6, keeping it secret as well. A final chance to raise, call, or fold. Each remaining player rolls 1d4. They all reveal the 1d8, 1d6, and 1d4, adding them all together. Winner takes 80% of the pot (the other 20% goes to the casino). Ties split the 80%.
+ > From <[https://messages.google.com/web/conversations/991](https://messages.google.com/web/conversations/991)>

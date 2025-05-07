@@ -1,0 +1,21 @@
+1. ==The party comes across a group of enemy soldiers who are torturing a captured NPC. The party can choose to try and rescue the NPC or ignore them. If the party tries to rescue the NPC, they must make a series of Stealth and Persuasion checks to get close enough to the enemy forces. The DC for the checks starts at 12 and increases by 2 for every success. If the party fails any of the checks, they are spotted and must fight their way out. If the party is successful, they rescue the NPC.== ==u/EatenFisher==
+2. ==The party comes across a group of enemy soldiers patroling the area. The party can choose to try and avoid them or engage them. If the party tries to avoid them, they must make a series of Stealth checks to get past the patrols. The DC for the checks starts at 10 and increases by 2 for every success. If the party fails any of the checks, they are spotted and must fight their way out. If the party is successful, they avoid the patrols.== ==u/EatenFisher==
+3. ==The party comes across a group of enemy soldiers who are resting and not on patrol. The party can choose to try and attack them while they are resting or ignore them.== ==u/EatenFisher==
+4. ==A rogue enemy soldier noticed the party and is trying to escape to warn the others. The party can choose to try and stop him or let him go. If the party tries to stop him, they must make a series of Athletics and Perception checks to catch up to him.== ==u/EatenFisher==
+5. ==City guards patrol marches down the street. The patrol comprises of 1d10+5 soldiers. The party can choose to try and avoid them or engage them== ==u/EatenFisher==
+6. ==The party encounters 1d6 bandits who have killed some soldiers and put on their gear. They attempt to shake down the party for "taxes".== ==u/Zadder==
+7. ==The party passes a bar outside of which a drunkard makes a scene, yelling at passersby and trying to start fights. He could blow the party's cover if he's not careful...== ==u/Zadder==
+8. ==A thief approaches the party in a hurry, joins the group, and urges them to play along. Shortly thereafter, 1d4+1 guards run up and ask the party if they saw a thief pass this way.== ==u/Zadder==
+9. ==The party enters the city to see some villagers being put to death for speaking out against the bbeg publicly and trying to revolt== ==u/CertainLong8898==
+10. ==The party overhears low-level goons talking about a previous battle the players won against some of the BBEG’s men. The story is largely accurate but told from the perspective that the players are the villains.==
+
+==The party encounters a hunter while out in the BBEG's realm. Are they a poacher who could help, or a sentinel of the BBEG?==  
+==Trying to infiltrate through the sewers, the party encounters a band of goblins. Will they risk a loud fight or try another way?==  
+==The party is greeted warmly, just as everyone else is, when passing through the city gate. They are given some directions, pamphlets about local wonders and shops, and small bracelets that are to beautiful to throw away.==  
+==The party, while scouting the city, spots a couple trying to elope by roping down the walls. Will they use them as distraction or help them?==  
+==The party is searched for weapons and questioned upon entering. Will they be able to hide who they are?==  
+==A raven and a pixie note everyone entering the city. Sometimes the raven caws, and the visitors are led away, sometimes the pixie ask seemingly nonsensical questions.==  
+==X. The party encounters 1d6 bandits who have killed some soldiers and put on their gear. They attempt to shake down the party for "taxes".==  
+==X. The party passes a bar outside of which a drunkard makes a scene, yelling at passersby and trying to start fights. He could blow the party's cover if he's not careful...==  
+==X. A thief approaches the party in a hurry, joins the group, and urges them to play along. Shortly thereafter, 1d4+1 guards run up and ask the party if they saw a thief pass this way.==  
+==The party enters the city to see some villagers being put to death for speaking out against the bbeg publicly and trying to revolt==
