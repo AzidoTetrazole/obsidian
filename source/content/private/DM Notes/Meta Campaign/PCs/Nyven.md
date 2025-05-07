@@ -8,7 +8,7 @@ Nyven - Grew up in Caulderon a village/enclave on the side of Mount Hotenow (a v
 - [[Triptan]] – Mother
 - [[People/Lazuli]] - Friend/lover from Caulderon
  
-- Lazuli was seduced by offers of power from [[People/Koraboros]] (a pit fiend)
+- Lazuli was seduced by offers of power from [[Koraboros]] (a pit fiend)
     
     - Koraboros
     - Imprisoned in the Sword Mountains by another warlock (Ammon Jerro)

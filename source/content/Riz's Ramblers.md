@@ -1,0 +1,3 @@
+Members: [[Barakus Enigma]], [[Riz's Ramblers/Player Characters/Colt Mooncaller|Colt Mooncaller]], [[Riz's Ramblers/Player Characters/Lapis|Lapis]], [[Riz's Ramblers/Player Characters/Njal Stormbringer Ragnarsson|Njal Stormbringer Ragnarsson]], [[Nyven of Caulderon]], [[Riz's Ramblers/Player Characters/Rizlyn|Rizlyn]], [[Riz's Ramblers/Player Characters/Thelid|Thelid]], [[Triptan of Caulderon]]
+
+The party was responsible for the defeat of a white dragon threatening [[Phandolin]], lead the defeat of armies seeking to take [[Leilon]], and thwarted the plans of the pit fiend [[Koraboros]].
