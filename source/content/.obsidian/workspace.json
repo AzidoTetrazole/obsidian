@@ -13,12 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/DM Notes/PC Notes/Tiny.md",
-                "mode": "source",
-                "source": false
+                "file": "Events in the Realms.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tiny"
+              "title": "Events in the Realms"
             }
           }
         ]
@@ -183,13 +184,15 @@
   },
   "active": "331ac7909c94bffd",
   "lastOpenFiles": [
-    "private/DM Notes/PC Notes/Meany.md",
+    "index.md",
+    "Events in the Realms.md",
+    "Player Characters/Tiny.md",
     "private/DM Notes/PC Notes/Tiny.md",
+    "private/DM Notes/PC Notes/Meany.md",
     "private/DM Notes/PC Notes/Konrad.md",
     "private/DM Notes/PC Notes/Horson.md",
     "private/DM Notes/PC Notes/Axel.md",
     "private/DM Notes/PC Notes/Cordelia.md",
-    "Player Characters/Tiny.md",
     "Player Characters/Cordelia.md",
     "private/DM Notes/PC Notes",
     "private/Untitled",
@@ -197,7 +200,6 @@
     "Player Characters/Konrad.md",
     "Player Characters/Horson.md",
     "Riz's Ramblers/Player Characters/Barakus Enigma.md",
-    "index.md",
     "private/z_assets/PC Portraits/Horson.png",
     "private/z_assets/PC Portraits/Konrad.jpeg",
     "private/z_assets/PC Portraits/Meany.png",
@@ -215,7 +217,6 @@
     "Riz's Ramblers/Places/Eriiksvager/Ragnar.md",
     "Riz's Ramblers/Places/Eriiksvager/Jarl Harald.md",
     "Riz's Ramblers/Places/Eriiksvager/Astrid Jarlsdotter.md",
-    "Riz's Ramblers/Places/Caulderon/Village of Caulderon.md",
     "private/z_Templates",
     "private/Previous Session Notes/Untitled",
     "Player Characters",
