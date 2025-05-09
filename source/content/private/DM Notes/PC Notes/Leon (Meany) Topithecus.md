@@ -1,5 +1,6 @@
 ## DM Notes
 - Who is the unicorn the servant of?
+- What is the curse? Bad luck? Or none, just people's choice
 Leon Topithecus. Twin Brother to Rosalia "Tiny". Meany and Tiny grew up in (Iraebar (Overland City/City of A Thousand Spires) with their grandfather (Papio), and their parents Pongo (Father) and Diana (Mother). Their parents run a small shop out of their home, where they sell what goods they are able to find or make.
 
 Since their first days, Meany and Tiny knew of their family curse. An ancestor gave away their family name to the fae, and the family has had misfortunes ever since. Their parents warned them to never speak their last name, as it could call down additional trouble. Meany and Tiny were encouraged to not draw attention to themselves, or take any great risk, lest the fae curse find them again.

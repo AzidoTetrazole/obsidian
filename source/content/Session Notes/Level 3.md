@@ -1,2 +1,2 @@
 ## 5.8.25 - Many Years Later...
-A new group of adventurers meet!
+A new group of adventurers meet! As an impromptu Pan Flute duo comes to an end, 3 gnolls try to waylay the caravan. The party quickly dispatches them, with blade, bane, and laughter.
