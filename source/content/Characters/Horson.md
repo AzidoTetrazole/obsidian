@@ -1,2 +1,2 @@
-![[Characters/PCPortraits/Horson.png]]
+![[z_assets/PCPortraits/Horson.png]]
 ## Profile

@@ -1,3 +1,3 @@
-![[Characters/PCPortraits/Konrad.jpeg]]
+![[z_assets/PCPortraits/Konrad.jpeg]]
 
 ## Profile

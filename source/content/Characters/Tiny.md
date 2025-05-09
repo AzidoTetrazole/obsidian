@@ -1,5 +1,3 @@
-## Picture
-
-![[Characters/PCPortraits/Tiny.png]]
+![[z_assets/PCPortraits/Tiny.png]]
 
 ## Profile

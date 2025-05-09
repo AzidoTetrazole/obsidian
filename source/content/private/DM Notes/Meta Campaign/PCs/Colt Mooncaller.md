@@ -1,5 +1,5 @@
 ![[z_assets/PCPortraits/Colt Mooncaller.jpg|500]]
-Member of the [[Followers of Life]]
+Member of the [[Riz's Ramblers/People/Followers of Life]]
 Brother to [[Places/Leilon/Andrea Mooncaller]]
 
 | Parents left to serve [[Xemnus]], and never returned - Colt believes the church can tell him where they are.<br>   <br><br>So my character believes that he is the only one with the power of he's church when in reality there are others the church keeps them separated. The church is public but the missions that they send colt on is secret with only the heads of the churches and heads of local branches knowing who colt is the church is called the followers of life. They see blood as the most precious form of proof of life. They hold sermons preaching the protection of blood and how it flows through all and believes that only the purest of blood can ascend and blood can be cleansed through actions. On the back end they use blood rituals that sacrifice blood to their god Xemnus (Zem-Nus) when there are no depictions of him they speculate he is pure through and through<br><br>Xemnus - True name of Red Knight (deity of strategy and battle tactics) -  <br>wears crimson red cloak plate mail with a full helm, their eyes gleaming like ruby stars. |

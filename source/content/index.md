@@ -1,14 +1,14 @@
 ---
 title: Welcome Nerds!
 ---
-![[z_assets/NNHeader2.png]]
+![[z_assets/SiteAssets/NNHeader2.png]]
 
 Welcome friends, to the home of the Nerd Night!
 
 This site will be used for table rules and world lore!
 ## Campaign Introduction
 
-Its been nearly 25 years since the Breaching, when the hierarchy of the Gods was shattered at the hands of mortals. For nearly a decade after the Breaching, Faerun was in a state of chaos. Tales are plenty of divinity, nature, time, and the realms unbound. Gods that walked the mortal plane for the first time in millennia. The sun and moon whirled chaotically across the sky. Weather and seasons were unmoored from the passage of time. Entire landscapes were shaped by unleashed deities and nature.
+Its been nearly 25 years since the [[Events in the Realms#The Breaching|Breaching]], when the hierarchy of the Gods was shattered at the hands of mortals. For nearly a decade after the Breaching, Faerun was in a state of chaos. Tales are plenty of divinity, nature, time, and the realms unbound. Gods that walked the mortal plane for the first time in millennia. The sun and moon whirled chaotically across the sky. Weather and seasons were unmoored from the passage of time. Entire landscapes were shaped by unleashed deities and nature.
 
 In the last few years, a tense calm has settled over the world. The great disasters of the Breaching are beginning to fade, if only on the landscape if not in the minds of the survivors. Is this a true peace, or simply the eye of the storm?
 
